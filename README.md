@@ -10,3 +10,4 @@ the default run of the script with the parameter 'time_series_covid19_confirmed_
 Looking at the graph created on 04/05/2020, all lines are universally trending, but there are two downward exceptions which are 'KOREA, SOUTH' and 'CHINA'. Both of them successfully contained the spread
 The upward exception is 'US' still in the middle of exponential spread
 
+haha
